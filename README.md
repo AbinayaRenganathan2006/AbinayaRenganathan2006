@@ -1,16 +1,53 @@
-## Hi there 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20AbinayaRenganathan!%20👩‍💻&fontSize=40&fontAlignY=35)
 
-<!--
-**AbinayaRenganathan2006/AbinayaRenganathan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me  
+🎓 I'm a Computer Science Student passionate about **Web Development**.  
+💡 I love to solve sql related problems  
+🌱 Currently learning: **React** and **Python**  
+⚡ Fun fact: I love coding until i didn't get errors
+🎵 I can't code without music 🎧 
+✈️ Dreaming of traveling to Japan someday 🇯🇵  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+**Languages:** C, Java, Python  
+**Frontend:** HTML, CSS, JavaScript  
+**Tools:** VS Code, Git, GitHub  
+
+---
+
+## 🚀 Projects To Do and Done
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🏦 **Bank Loan Approval System** | Predicts loan approval using ML | Python, Flask |
+| 🧳 **Online Tourism Management** | Tourism booking web app | PHP, MySQL |
+| 🎯 **Student Score Predictor** | Predicts marks using dataset | Python, Pandas |
+
+---
+
+## 📊 GitHub Stats  
+![Abinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinayaRenganathan2006&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbinayaRenganathan2006&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbinayaRenganathan2006&theme=tokyonight)
+
+---
+
+## 📊 GitHub Stats  
+![Abinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinayaRenganathan2006&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbinayaRenganathan2006&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbinayaRenganathan2006&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abinaya-renganathan-4a800a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:kit27.csbs04@gmail.com)
+
+---
+⭐ *"Keep Learning, Keep Building!"*
+⭐ *“Keep Learning, Keep Building, Keep Growing!”*
+)  
+
+
+---
