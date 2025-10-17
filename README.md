@@ -44,10 +44,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abinaya-renganathan-4a800a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:kit27.csbs04@gmail.com)
 
----
-⭐ *"Keep Learning, Keep Building!"*
-⭐ *“Keep Learning, Keep Building, Keep Growing!”*
-)  
 
-
----
