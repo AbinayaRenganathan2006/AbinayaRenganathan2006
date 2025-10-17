@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack  
 **Languages:** C, Java, Python  
 **Frontend:** HTML, CSS, JavaScript  
-**Tools:** VS Code, Git, GitHub  
+**Tools:** VS Code, GitHub  
 
 ---
 
