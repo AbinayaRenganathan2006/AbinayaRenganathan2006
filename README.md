@@ -11,20 +11,19 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** C, Java, Python  
+**Languages:** C, Python  
 **Frontend:** HTML, CSS, JavaScript  
 **Tools:** VS Code, GitHub  
 
 ---
 
-## 🚀 Projects To Do and Done
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🏦 **Bank Loan Approval System** | Predicts loan approval using ML | Python, Flask |
-| 🧳 **Online Tourism Management** | Tourism booking web app | PHP, MySQL |
-| 🎯 **Student Score Predictor** | Predicts marks using dataset | Python, Pandas |
+| Project                          | Description                            | Tech                  |
+| -------------------------------- | -------------------------------------- | --------------------- |
+| 📝 **To-Do List Web App**        | Add, delete, and manage daily tasks    | HTML, CSS, JavaScript |
+| ⏰ **Digital Clock**              | Live time clock with real-time updates | HTML, CSS, JavaScript |
+| 🎨 **Drawing Website**           | Canvas-based drawing app               | HTML, CSS, JavaScript |
+| 🧳 **Online Tourism Management** | Tourism booking web app                | HTML,CSS,JavaScript PHP, MySQL |
 
----
 
 ## 📊 GitHub Stats  
 ![Abinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinayaRenganathan2006&show_icons=true&theme=tokyonight)  
