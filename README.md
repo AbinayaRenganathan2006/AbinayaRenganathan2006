@@ -3,7 +3,7 @@
 # 💫 About Me  
 🎓 I'm a Computer Science Student passionate about **Web Development**.  
 💡 I love to solve sql related problems  
-🌱 Currently learning: **React** and **Python**  
+🌱 Currently learning: **Python** and **Excel**  
 ⚡ Fun fact: I love coding until i didn't get errors
 🎵 I can't code without music 🎧 
 ✈️ Dreaming of traveling to Japan someday 🇯🇵  
