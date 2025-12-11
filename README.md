@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20AbinayaRenganathan!%20👩‍💻&fontSize=40&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AbinayaRenganathan!%20👩‍💻&fontSize=40&fontAlignY=35)
 
 # 💫 About Me  
 🎓 I'm a Computer Science Student passionate about **Web Development**.  
